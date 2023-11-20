@@ -48,6 +48,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## My process
 
 Start with mobile first workflow. I checked out the desktop design to learn there are two componets that split in the destktop view. Then combine in the mobile view.
+Sectioned out everything in HTML. Updated gitignore files but need to figure out how to remove certain markdown files. Might just remove it from the folder.
+Work on styling.
 
 ### Built with
 
