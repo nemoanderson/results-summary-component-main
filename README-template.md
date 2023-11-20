@@ -97,6 +97,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [.gitingore-info] (https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/) - give me info on how to ignore files I do not want display in github.
+- [gitMoji] (https://gitmoji.dev/) -Having fun with emojies in git
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
