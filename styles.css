@@ -33,3 +33,84 @@ body {
   font-size: 18px;
   font-family: 'Hanken Grotesk', sans-serif;
 }
+
+.container {
+
+  border: red solid 7px;
+}
+
+.results-container {
+  
+  
+  border: blue solid 7px;
+}
+.results-header {
+  
+  
+  border: blue dotted 3px;
+}
+
+.results-score {
+
+
+  border: blue solid 3px;
+}
+
+.results-paragraph {
+
+
+  border: orange dashed 1px;
+}
+
+.results-header {
+
+
+  border: orange solid;
+}
+
+.summary-container {
+
+
+
+  border: red solid;
+}
+
+.summary-heading {
+
+
+  border:red dotted;
+}
+
+.summary-reaction {
+  
+  
+  border: pink solid;
+}
+
+.summary-first-number {
+
+
+  border: red solid;
+}
+
+.summary-memory {
+
+
+  border: yellow solid;
+}
+
+.summary-verbal {
+
+
+  border: green solid;
+}
+
+.summary-visual {
+
+
+  border: blue solid;
+}
+
+.contiune-btn {
+  
+}

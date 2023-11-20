@@ -51,6 +51,8 @@ Start with mobile first workflow. I checked out the desktop design to learn ther
 Sectioned out everything in HTML. Updated gitignore files but need to figure out how to remove certain markdown files. Might just remove it from the folder.
 Work on styling.
 
+Added all the classes and styling button
+
 ### Built with
 
 - Semantic HTML5 markup
