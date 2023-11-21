@@ -46,6 +46,7 @@ footer {
   height:300px;
   background: linear-gradient(360deg, hsla(241, 81%, 54%, 1) 5%, hsla(252, 100%, 67%, 1) 100%);
   border-radius: 0% 0% 10% 10%;
+  box-shadow: 0 0 21px -5px var(--Dark-gray-blue);
 }
 
 .results-header {
@@ -165,7 +166,7 @@ footer {
         justify-content: center;
         align-items: center;
   }
-  
+
   main {
     display: flex;
   }
