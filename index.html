@@ -27,40 +27,52 @@
     </style>
   </head>
   <body>
-    <main class="container"></main>
-    <!-- Results. Mobile, top; desktop, left-->
-    <div class="results-container">
-      <h3 class="results-header">Your Result</h3>
-      <span class="results-score">76</span> of 100
-      <p class="results-paragraph">
-        <span class="results-header">Great</span> You scored higher than 65% of
-        the people who have taken these tests.
-      </p>
-    </div>
+    <main class="container">
+      <!-- Results. Mobile, top; desktop, left-->
+      <div class="results-container">
+        <h3 class="results-header">Your Result</h3>
+        <div class="results-numbers">
+          <span class="results-score">76</span
+          ><span class="one-hundred"> of 100</span>
+        </div>
+        <p class="results-paragraph">
+          <span class="great">Great</span> You scored higher than 65% of the
+          people who have taken these tests.
+        </p>
+      </div>
 
-    <!-- Summary. Mobile, bottom; Desktop, right -->
-    <div class="summary-container">
-      <div class="summary-heading">Summary</div>
-      <div class="summary-reaction">
-        Reaction <span class="summary-first-number">80</span> / 100
+      <!-- Summary. Mobile, bottom; Desktop, right -->
+      <div class="summary-container">
+        <div class="summary-heading">Summary</div>
+        <div class="summary tiles">
+          <div class="summary-reaction">
+            <img src="/assets/images/icon-reaction.svg" alt="lighting icon" />
+            Reaction
+            <span class="summary-numbers"><strong>80</strong> / 100</span>
+          </div>
+          <div class="summary-memory">
+            <img src="/assets/images/icon-memory.svg" alt="brain icon" />
+            <span class="summary-text">Memory</span>
+            <span class="summary-numbers"><strong>92</strong> / 100</span>
+          </div>
+          <div class="summary-verbal">
+            <img src="/assets/images/icon-verbal.svg" alt="chat bubble icon" />
+            Verbal <span class="summary-first-number">61</span> / 100
+          </div>
+          <div class="summary-visual">
+            <img src="/assets/images/icon-visual.svg" alt="eye icon" /> Visual
+            <span class="summary-first-number">72</span> / 100
+          </div>
+        </div>
+        <button class="continue-btn">Continue</button>
       </div>
-      <div class="summary-memory">
-        Memory <span class="summary-first-number">92</span> / 100
-      </div>
-      <div class="summary-verbal">
-        Verbal <span class="summary-first-number">61</span> / 100
-      </div>
-      <div class="summary-visual">
-        Visual <span class="summary-first-number">72</span> / 100
-      </div>
-      <button class="continue-btn">Continue</button>
-    </div>
+    </main>
     <footer>
       <div class="attribution">
         Challenge by
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
           >Frontend Mentor</a
-        >. Coded by <a href="#">Your Name Here</a>.
+        >. Coded by <a href="#">Nemo Anderson</a>.
       </div>
     </footer>
   </body>
